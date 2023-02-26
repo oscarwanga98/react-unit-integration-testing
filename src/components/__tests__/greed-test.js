@@ -1,5 +1,5 @@
 import { render,screen } from "@testing-library/react"
-import { Greed } from "./greed"
+import { Greed } from "../greed/greed"
 
 describe('Greed yote',()=>{
     test('renders correctly',()=>{

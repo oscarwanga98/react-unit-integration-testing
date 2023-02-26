@@ -4,3 +4,7 @@ export const Greed = ({name}) => {
   )
 }
 
+function doom(){
+  console.log ("doom")
+  doom()
+}
